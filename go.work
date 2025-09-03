@@ -1,0 +1,7 @@
+go 1.25.0
+
+use (
+	./1-concurrency
+	./2-random-api
+	./3-validation-api
+)
