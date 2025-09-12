@@ -4,4 +4,5 @@ use (
 	./1-concurrency
 	./2-random-api
 	./3-validation-api
+	./4-order-api
 )
